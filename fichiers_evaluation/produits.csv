@@ -1,0 +1,60 @@
+id_produit,nom_produit,categorie,prix_unitaire,stock_disponible
+PRD001,Smartphone,Electronique,559100.0,27
+PRD002,Ecouteurs sans fil,Electronique,796800.0,112
+PRD003,Chargeur rapide,Electronique,169200.0,196
+PRD004,Enceinte bluetooth,Electronique,560600.0,166
+PRD005,Cle USB 64Go,electronique,96600.0,300
+PRD006,Souris sans fil,Electronique,482300.0,111
+PRD007,Clavier mecanique,electronique,816200.0,80
+PRD008,Casque audio,Electronique,108000.0,0
+PRD009,Powerbank 10000mAh,Electronique,630600.0,240
+PRD010,Webcam HD,Electronique,71300.0,49
+PRD011,T-shirt coton,Vetement,102500.0,189
+PRD012,Jean slim,Vetement,91100.0,283
+PRD013,Robe imprimee,VETEMENT,25400.0,128
+PRD014,Veste legere,Vetement,,18
+PRD015,Chemise lin,Vetement,64100.0,190
+PRD016,Pull maille,Vetement,65700.0,144
+PRD017,Short sport,Vetement,149000.0,126
+PRD018,Baskets running,Vetement,101800.0,44
+PRD019,Sandales cuir,Vetement,,155
+PRD020,Casquette,Vetement,36600.0,73
+PRD021,Cafe arabica 500g,Alimentation,8000.0,109
+PRD022,Miel naturel 1kg,Alimentation,23600.0,7
+PRD023,Vanille bourbon,Alimentation,67800.0,275
+PRD024,Chocolat noir 70%,Alimentation,33200.0,220
+PRD025,The vert 200g,Alimentation,51100.0,82
+PRD026,Huile essentielle,Alimentation,25300.0,108
+PRD027,Epices melangees,Alimentation,41800.0,82
+PRD028,Riz rouge 5kg,Alimentation,55000.0,278
+PRD029,Lampe de bureau,maison ,26800.0,227
+PRD030,Coussin decoratif,Maison,74000.0,3
+PRD031,Rideau occultant,Maison,40500.0,197
+PRD032,Set de couverts,Maison,188300.0,290
+PRD033,Poele antiadhesive,maison ,161600.0,211
+PRD034,Panier osier,Maison,157800.0,283
+PRD035,Tapis salon,Maison,146400.0,299
+PRD036,Miroir mural,maison ,157800.0,131
+PRD037,Bougie parfumee,Maison,120400.0,25
+PRD038,Vase ceramique,Maison,,0
+PRD039,Livre roman,Loisir,106500.0,247
+PRD040,Puzzle 1000 pieces,Loisir,27800.0,91
+PRD041,Jeu de societe,Loisir,163600.0,227
+PRD042,Raquette badminton,Loisir,42200.0,229
+PRD043,Ballon football,Loisir,87400.0,261
+PRD044,Tapis de yoga,Loisir,157800.0,272
+PRD045,Corde a sauter,Loisir,122600.0,223
+PRD046,Halteres 5kg,Loisir,144900.0,225
+PRD047,Creme hydratante,Beaute,16000.0,21
+PRD048,Shampoing bio,Beaute,,228
+PRD049,Parfum floral,Beaute,30200.0,25
+PRD050,Rouge a levres,Beaute,75400.0,132
+PRD051,Savon artisanal,Beaute,36300.0,296
+PRD052,Huile capillaire,Beaute,86100.0,178
+PRD053,Brosse a cheveux,Beaute,91800.0,290
+PRD054,Serum visage,Beaute,101100.0,145
+PRD055,Sac a dos,Bagagerie,219500.0,102
+PRD056,Valise cabine,Bagagerie,220100.0,191
+PRD057,Trousse de toilette,Bagagerie,,199
+PRD058,Portefeuille cuir,Bagagerie,276600.0,209
+PRD059,Sacoche ordinateur,Bagagerie,279200.0,289

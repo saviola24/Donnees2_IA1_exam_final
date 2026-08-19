@@ -1,0 +1,208 @@
+id_client,nom,prenom,email,telephone,ville,region,date_inscription
+CLI0001,Rabe,Tantely,tantely.rabe1@mail.mg,0326 812 251,Antsirabe,Vakinankaratra,2024-11-25
+CLI0002,Andrianina,Mendrika,mendrika.andrianina2@mail.mg,+261 34 67 579 19,Fianarantsoa,Haute Matsiatra,2024-09-08
+CLI0003,Rasoa,Miora,miora.rasoa3@mail.mg,0322110528,Toliara,Atsimo-Andrefana,2024-05-11
+CLI0004,Randria,Rado,rado.randria4@mail.mg,0338914896,Antananarivo,Analamanga,2025-04-22
+CLI0005,Rajaonarivelo,Rija,rija.rajaonarivelo5@mail.mg,0344490883,Mahajanga,Boeny,2025-04-04
+CLI0006,Rakotomalala,Aina,aina.rakotomalala6@mail.mg,0341 635 798,Antsirabe,Vakinankaratra,2024-07-07
+CLI0007,Rafanomezantsoa,Rija,rija.rafanomezantsoa7@mail.mg,+261 32 66 525 61,Toliara,Atsimo-Andrefana,2024-10-23
+CLI0008,Rabe,Ando,ando.rabe8@mail.mg,0338 989 820,Mahajanga,Boeny,2025-02-19
+CLI0009,Randria,Mamy,mamy.randria9@mail.mg,+261 33 95 374 86,Fianarantsoa,Haute Matsiatra,2025-04-22
+CLI0010,Rakotomalala,Rado,rado.rakotomalala10@mail.mg,0347 235 814,Morondava,Menabe,2024-04-03
+CLI0011,Rajaonarivelo,Vola,vola.rajaonarivelo11@mail.mg,0341 812 543,Morondava,Menabe,2024-04-21
+CLI0012,Andrianjafy,Tantely,tantely.andrianjafy12@mail.mg,+261 32 53 560 29,Antsiranana,Diana,2024-12-31
+CLI0013,Rafanomezantsoa,Ando,ando.rafanomezantsoa13@mail.mg,+261 33 21 635 85,Antsirabe,Vakinankaratra,2024-03-31
+CLI0014,Rabe,Aina,aina.rabe14@mail.mg,0328 376 166,Antsiranana,Diana,2024-01-25
+CLI0015,Rakotomalala,Soa,soa.rakotomalala15@mail.mg,0349698021,Fianarantsoa,Haute Matsiatra,2024-12-08
+CLI0016,Ranaivo,Iarivo,iarivo.ranaivo16@mail.mg,0328516483,Antsirabe,Vakinankaratra,2024-03-31
+CLI0017,Andrianina,Soa,soa.andrianina17@mail.mg,0334424088,Mahajanga,Boeny,2024-12-12
+CLI0018,Ratsimbazafy,Mamy,mamy.ratsimbazafy18@mail.mg,0348594487,Fianarantsoa,Haute Matsiatra,2024-08-30
+CLI0019,Ramanana,Miora,miora.ramanana19@mail.mg,+261 34 48 529 11,Toliara,Atsimo-Andrefana,2024-05-23
+CLI0020,Ranaivo,Onja,onja.ranaivo20@mail.mg,+261 32 37 825 46,Antsiranana,Diana,2024-11-02
+CLI0021,Razafimahatratra,Onja,onja.razafimahatratra21@mail.mg,+261 32 66 589 17,Antananarivo,Analamanga,2024-11-02
+CLI0022,Ravelo,Rado,rado.ravelo22@mail.mg,0324 923 940,Antananarivo,Analamanga,2025-02-15
+CLI0023,Razafimahatratra,Vola,vola.razafimahatratra23@mail.mg,0347 527 766,Antsirabe,Vakinankaratra,2024-10-10
+CLI0024,Rakotomalala,Tantely,tantely.rakotomalala24@mail.mg,+261 33 24 138 22,Toliara,Atsimo-Andrefana,2024-04-26
+CLI0025,Ratsimbazafy,Nirina,nirina.ratsimbazafy25@mail.mg,0336274448,Antsirabe,Vakinankaratra,2024-12-02
+CLI0026,Razafy,Haja,haja.razafy26@mail.mg,0330744220,Antananarivo,Analamanga,2024-11-21
+CLI0027,Randria,Rado,rado.randria27@mail.mg,+261 34 80 947 35,Morondava,Menabe,2024-04-01
+CLI0028,Rajaonarivelo,Toky,toky.rajaonarivelo28@mail.mg,0328 774 203,Antsirabe,Vakinankaratra,2024-06-22
+CLI0029,Ratsimbazafy,Fetra,fetra.ratsimbazafy29@mail.mg,0337709438,Toliara,Atsimo-Andrefana,2024-03-30
+CLI0030,Rajaonarivelo,Fitia,fitia.rajaonarivelo30@mail.mg,0331 435 490,Toliara,Atsimo-Andrefana,2025-04-25
+CLI0031,Razafimahatratra,Onja,onja.razafimahatratra31@mail.mg,0341223073,Toamasina,Atsinanana,2024-03-20
+CLI0032,Rajaonarivelo,Faniry,faniry.rajaonarivelo32@mail.mg,+261 33 33 518 70,Antsirabe,Vakinankaratra,2024-08-01
+CLI0033,Ravelo,Mendrika,mendrika.ravelo33@mail.mg,0336 199 103,Antsirabe,Vakinankaratra,2024-10-12
+CLI0034,Andriamalala,Soa,soa.andriamalala34@mail.mg,+261 34 89 598 19,Antsiranana,Diana,2024-07-04
+CLI0035,Randria,Fetra,fetra.randria35@mail.mg,+261 32 49 470 13,Toliara,Atsimo-Andrefana,2024-12-22
+CLI0036,Rajaonarivelo,Rado,rado.rajaonarivelo36@mail.mg,+261 32 12 506 31,Antsiranana,Diana,2024-06-24
+CLI0037,Ravelo,Iarivo,iarivo.ravelo37@mail.mg,+261 32 84 661 23,Toamasina,Atsinanana,2024-02-01
+CLI0038,Rasolofo,Fitia,fitia.rasolofo38@mail.mg,0346 835 101,Antsirabe,Vakinankaratra,2025-05-06
+CLI0039,Rasoa,Miora,miora.rasoa39@mail.mg,0343 249 523,Antsiranana,Diana,2025-03-12
+CLI0040,Razafimahatratra,Hery,hery.razafimahatratra40@mail.mg,0324 269 868,Morondava,Menabe,2024-06-03
+CLI0041,Ratsimbazafy,Soa,soa.ratsimbazafy41@mail.mg,+261 33 62 840 62,Antananarivo,Analamanga,2024-11-29
+CLI0042,Rafanomezantsoa,Haja,haja.rafanomezantsoa42@mail.mg,0347361215,Toliara,Atsimo-Andrefana,2024-06-09
+CLI0043,Rajaonarivelo,Antsa,antsa.rajaonarivelo43@mail.mg,0331715118,Antananarivo,Analamanga,2025-04-05
+CLI0044,Rasolofo,Toky,toky.rasolofo44@mail.mg,0320166092,Antsiranana,Diana,2024-08-10
+CLI0045,Rasoa,Sedra,sedra.rasoa45@mail.mg,+261 33 36 362 97,Morondava,Menabe,2025-01-06
+CLI0046,Ranaivo,Andry,andry.ranaivo46@mail.mg,0339 672 270,Fianarantsoa,Haute Matsiatra,2024-09-24
+CLI0047,Rajaonarivelo,Sedra,sedra.rajaonarivelo47@mail.mg,0339 901 641,Mahajanga,Boeny,2024-09-30
+CLI0048,Rafanomezantsoa,Onja,onja.rafanomezantsoa48@mail.mg,+261 34 25 953 64,Toamasina,Atsinanana,2024-04-25
+CLI0049,Ratsimbazafy,Rado,rado.ratsimbazafy49@mail.mg,0325153293,Fianarantsoa,Haute Matsiatra,2024-09-27
+CLI0050,Rabe,Koloina,koloina.rabe50@mail.mg,0329429455,Toamasina,Atsinanana,2024-11-01
+CLI0051,Rakotomalala,Andry,andry.rakotomalala51@mail.mg,+261 34 47 224 63,Toamasina,Atsinanana,2024-03-12
+CLI0052,Randria,Koloina,koloina.randria52@mail.mg,+261 33 65 729 40,Toamasina,Atsinanana,2024-03-13
+CLI0053,Andrianina,Vola,vola.andrianina53@mail.mg,0322655436,Antsiranana,Diana,2024-11-17
+CLI0054,Ramanana,Rado,rado.ramanana54@mail.mg,+261 32 36 169 49,Antsiranana,Diana,2025-01-25
+CLI0055,Rakotomalala,Tiana,tiana.rakotomalala55@mail.mg,0322 378 251,Antsirabe,Vakinankaratra,2025-03-11
+CLI0056,Ravelo,Tojo,tojo.ravelo56@mail.mg,+261 32 25 895 39,Antsiranana,Diana,2024-06-07
+CLI0057,Andrianina,Andry,andry.andrianina57@mail.mg,+261 33 73 136 84,Morondava,Menabe,2024-10-22
+CLI0058,Rakoto,Onja,onja.rakoto58@mail.mg,0341973831,Mahajanga,Boeny,2024-06-24
+CLI0059,Rafanomezantsoa,Haja,haja.rafanomezantsoa59@mail.mg,0337464450,Fianarantsoa,Haute Matsiatra,2024-04-10
+CLI0060,Rajaonarivelo,Toky,toky.rajaonarivelo60@mail.mg,+261 33 65 477 52,Antsirabe,Vakinankaratra,2024-07-25
+CLI0061,Rabe,Mamy,mamy.rabe61@mail.mg,+261 33 58 244 80,Antsirabe,Vakinankaratra,2024-12-09
+CLI0062,Ranaivo,Naina,naina.ranaivo62@mail.mg,0323170047,Toamasina,Atsinanana,2024-07-28
+CLI0063,Rakotomalala,Vola,vola.rakotomalala63@mail.mg,+261 34 74 153 53,Antsirabe,Vakinankaratra,2025-04-20
+CLI0064,Razafimahatratra,Hery,hery.razafimahatratra64@mail.mg,+261 33 91 524 31,Toliara,Atsimo-Andrefana,2024-05-10
+CLI0065,Ratsimbazafy,Fetra,fetra.ratsimbazafy65@mail.mg,+261 32 11 186 75,Fianarantsoa,Haute Matsiatra,2024-02-26
+CLI0066,Rakoto,Onja,onja.rakoto66@mail.mg,0321257538,Antananarivo,Analamanga,2025-03-22
+CLI0067,Andrianjafy,Fanja,fanja.andrianjafy67@mail.mg,0326792049,Antananarivo,Analamanga,2024-03-10
+CLI0068,Ranaivo,Ando,ando.ranaivo68@mail.mg,0332 626 629,Antsirabe,Vakinankaratra,2024-06-30
+CLI0069,Randria,Faniry,faniry.randria69@mail.mg,0332782693,Antananarivo,Analamanga,2024-12-10
+CLI0070,Andrianjafy,Nirina,nirina.andrianjafy70@mail.mg,+261 33 66 278 27,Morondava,Menabe,2024-07-10
+CLI0071,Ravelo,Mendrika,mendrika.ravelo71@mail.mg,0332971991,Antsiranana,Diana,2024-11-26
+CLI0072,Andrianina,Mamy,mamy.andrianina72@mail.mg,+261 33 23 978 14,Antananarivo,Analamanga,2024-05-31
+CLI0073,Rasoa,Lalaina,lalaina.rasoa73@mail.mg,+261 33 27 467 41,Morondava,Menabe,2024-03-12
+CLI0074,Ravoajanahary,Ando,ando.ravoajanahary74@mail.mg,0328 203 564,Fianarantsoa,Haute Matsiatra,2024-05-29
+CLI0075,Ranaivo,Sedra,sedra.ranaivo75@mail.mg,0327 612 951,Antananarivo,Analamanga,2024-12-26
+CLI0076,Rajaonarivelo,Koloina,koloina.rajaonarivelo76@mail.mg,+261 32 12 502 92,Antsirabe,Vakinankaratra,2024-12-19
+CLI0077,Razanamalala,Vola,vola.razanamalala77@mail.mg,0322 485 155,Antsirabe,Vakinankaratra,2025-01-22
+CLI0078,Rajaonarivelo,Zo,zo.rajaonarivelo78@mail.mg,+261 33 87 480 85,Toamasina,Atsinanana,2024-05-06
+CLI0079,Rasoa,Soa,soa.rasoa79@mail.mg,+261 33 84 524 47,Morondava,Menabe,2025-03-07
+CLI0080,Rabe,Rija,rija.rabe80@mail.mg,+261 32 33 165 98,Toamasina,Atsinanana,2024-11-03
+CLI0081,Andrianina,Fitia,fitia.andrianina81@mail.mg,+261 34 98 896 91,Toamasina,Atsinanana,2024-02-19
+CLI0082,Rakoto,Onja,onja.rakoto82@mail.mg,+261 34 73 870 82,Morondava,Menabe,2024-05-29
+CLI0083,Ranaivo,Fitia,fitia.ranaivo83@mail.mg,0332 359 322,Toamasina,Atsinanana,2024-03-13
+CLI0084,Ravoajanahary,Lalaina,lalaina.ravoajanahary84@mail.mg,0349 539 595,Morondava,Menabe,2025-01-26
+CLI0085,Ratsimbazafy,Ando,ando.ratsimbazafy85@mail.mg,+261 33 56 822 77,Fianarantsoa,Haute Matsiatra,2024-11-18
+CLI0086,Andrianjafy,Faniry,faniry.andrianjafy86@mail.mg,0342652438,Mahajanga,Boeny,2025-01-05
+CLI0087,Randria,Andry,andry.randria87@mail.mg,+261 32 10 860 41,Fianarantsoa,Haute Matsiatra,2024-10-04
+CLI0088,Rakoto,Fanja,fanja.rakoto88@mail.mg,0349906956,Mahajanga,Boeny,2024-02-10
+CLI0089,Rakotoarisoa,Mendrika,mendrika.rakotoarisoa89@mail.mg,0344594555,Toliara,Atsimo-Andrefana,2024-11-14
+CLI0090,Ravoajanahary,Fanja,fanja.ravoajanahary90@mail.mg,0345823476,Antananarivo,Analamanga,2024-11-29
+CLI0091,Ranaivo,Iarivo,iarivo.ranaivo91@mail.mg,0320642636,Toamasina,Atsinanana,2024-12-13
+CLI0092,Rakotoarisoa,Lalaina,lalaina.rakotoarisoa92@mail.mg,+261 33 70 881 54,Antsirabe,Vakinankaratra,2024-09-20
+CLI0093,Rakotomalala,Iarivo,iarivo.rakotomalala93@mail.mg,0320 163 824,Antsiranana,Diana,2024-09-19
+CLI0094,Rabe,Nirina,nirina.rabe94@mail.mg,+261 34 80 751 19,Mahajanga,Boeny,2025-03-06
+CLI0095,Ranaivo,Andry,andry.ranaivo95@mail.mg,0331605871,Fianarantsoa,Haute Matsiatra,2025-02-18
+CLI0096,Andrianjafy,Hery,hery.andrianjafy96@mail.mg,0323731443,Toliara,Atsimo-Andrefana,2024-09-04
+CLI0097,Razafy,Mendrika,mendrika.razafy97@mail.mg,0329 100 824,Mahajanga,Boeny,2024-08-11
+CLI0098,Razanamalala,Fetra,fetra.razanamalala98@mail.mg,+261 33 77 715 73,Mahajanga,Boeny,2024-02-12
+CLI0099,Andrianina,Ando,ando.andrianina99@mail.mg,0320 538 164,Mahajanga,Boeny,2024-12-20
+CLI0100,Andrianina,Koloina,koloina.andrianina100@mail.mg,0325414938,Toliara,Atsimo-Andrefana,2024-12-02
+CLI0101,Rakoto,Vola,vola.rakoto101@mail.mg,+261 33 56 229 12,Antsiranana,Diana,2024-05-26
+CLI0102,Ravoajanahary,Andry,andry.ravoajanahary102@mail.mg,0327 500 317,antananarivo,Analamanga,2024-12-06
+CLI0103,Rasoa,Mamy,mamy.rasoa103@mail.mg,0345571230,Toliara,Atsimo-Andrefana,2024-10-17
+CLI0104,Rabe,Rija,rija.rabe104@mail.mg,+261 33 15 801 68,Antananarivo,Analamanga,2024-05-17
+CLI0105,Andriamalala,Hery,hery.andriamalala105@mail.mg,0342 897 678,Antananarivo,Analamanga,2024-09-19
+CLI0106,Razafimahatratra,Fanja,fanja.razafimahatratra106@mail.mg,0327118728,Antsiranana,Diana,2025-02-07
+CLI0107,Razanamalala,Sedra,sedra.razanamalala107@mail.mg,+261 33 55 845 82,Toamasina,Atsinanana,2024-02-08
+CLI0108,Rafanomezantsoa,Onja,onja.rafanomezantsoa108@mail.mg,+261 33 64 344 49,Antananarivo,Analamanga,2024-12-22
+CLI0109,Rakoto,Iarivo,iarivo.rakoto109@mail.mg,0327105072,Mahajanga,Boeny,2024-03-28
+CLI0110,Ratsimbazafy,Miora,miora.ratsimbazafy110@mail.mg,+261 32 87 958 73,Antsiranana,Diana,2025-04-13
+CLI0111,Ratsimbazafy,Miora,miora.ratsimbazafy111@mail.mg,0349 365 757,Toliara,Atsimo-Andrefana,2025-01-29
+CLI0112,Rasolofo,Antsa,antsa.rasolofo112@mail.mg,+261 34 22 751 33,Antsirabe,Vakinankaratra,2024-02-12
+CLI0113,Razafimahatratra,Rija,rija.razafimahatratra113@mail.mg,0341 360 734,Antsirabe,Vakinankaratra,2024-07-17
+CLI0114,Rafanomezantsoa,Tiana,tiana.rafanomezantsoa114@mail.mg,0326 589 232,Fianarantsoa,Haute Matsiatra,2024-02-25
+CLI0115,Ravoajanahary,Tantely,tantely.ravoajanahary115@mail.mg,0326337140,Mahajanga,Boeny,2024-04-20
+CLI0116,Rafanomezantsoa,Rija,rija.rafanomezantsoa116@mail.mg,0327745764,Antsiranana,Diana,2025-01-18
+CLI0117,Andriamalala,Miora,miora.andriamalala117@mail.mg,+261 33 62 317 17,Toamasina,Atsinanana,2024-03-06
+CLI0118,Rajaonarivelo,Ando,ando.rajaonarivelo118@mail.mg,0331314207,Antsiranana,Diana,2024-08-05
+CLI0119,Rasolofo,Zo,zo.rasolofo119@mail.mg,+261 32 90 850 98,Antsirabé,Vakinankaratra,2025-05-11
+CLI0120,Razafy,Toky,toky.razafy120@mail.mg,0324 252 512,Antsirabé,Vakinankaratra,2024-12-04
+CLI0121,Rabe,Vola,vola.rabe121@mail.mg,0337890129,Antsirabe,Vakinankaratra,2024-08-26
+CLI0122,Rakotoarisoa,Naina,naina.rakotoarisoa122@mail.mg,+261 33 63 686 58,Toamasina,Atsinanana,2024-12-31
+CLI0123,Razanamalala,Fitia,fitia.razanamalala123@mail.mg,+261 34 79 706 24,Antsirabe,Vakinankaratra,2025-02-19
+CLI0124,Andriamalala,Mendrika,mendrika.andriamalala124@mail.mg,+261 34 34 693 27,Fianarantsoa,Haute Matsiatra,2025-02-13
+CLI0125,Razafimahatratra,Lalaina,lalaina.razafimahatratra125@mail.mg,0330 446 656,Antsiranana,Diana,2024-03-22
+CLI0126,Andriamalala,Naina,naina.andriamalala126@mail.mg,+261 32 13 143 49,Antsirabe,Vakinankaratra,2025-01-28
+CLI0127,Rasoa,Sedra,sedra.rasoa127@mail.mg,+261 33 44 803 81,Antsirabe,Vakinankaratra,2025-02-21
+CLI0128,Rakoto,Sitraka,sitraka.rakoto128@mail.mg,0333291393,Toamasina,Atsinanana,2025-02-12
+CLI0129,Ramanana,Toky,toky.ramanana129@mail.mg,0327 961 656,Fianarantsoa,Haute Matsiatra,2024-03-01
+CLI0130,Razafimahatratra,Andry,andry.razafimahatratra130@mail.mg,0345 938 835,Antananarivo,Analamanga,2024-02-13
+CLI0131,Rafanomezantsoa,Fitia,fitia.rafanomezantsoa131@mail.mg,0347956507,Morondava,Menabe,2025-02-06
+CLI0132,Randria,Fanja,fanja.randria132@mail.mg,0332 208 957,Antsiranana,Diana,2024-06-18
+CLI0133,Ratsimbazafy,Faniry,faniry.ratsimbazafy133@mail.mg,0347862167,Toamasina,Atsinanana,2024-10-02
+CLI0134,Rakotoarisoa,Faniry,faniry.rakotoarisoa134@mail.mg,+261 32 23 833 63,Fianarantsoa,Haute Matsiatra,2024-03-16
+CLI0135,Ramanana,Sitraka,sitraka.ramanana135@mail.mg,+261 32 36 646 39,Morondava,Menabe,2024-12-14
+CLI0136,Ravoajanahary,Haja,haja.ravoajanahary136@mail.mg,+261 33 73 336 51,Fianarantsoa,Haute Matsiatra,2024-03-25
+CLI0137,Ravelo,Haja,haja.ravelo137@mail.mg,0340 417 921,Antsiranana,Diana,2025-02-27
+CLI0138,Rasolofo,Lalaina,lalaina.rasolofo138@mail.mg,0341 698 228,Toliara,Atsimo-Andrefana,2024-03-17
+CLI0139,Ramanana,Ando,ando.ramanana139@mail.mg,0348965765,Toamasina,Atsinanana,2024-04-22
+CLI0140,Ranaivo,Lalaina,lalaina.ranaivo140@mail.mg,0337 813 594,Toliara,Atsimo-Andrefana,2024-03-05
+CLI0141,Ravoajanahary,Ando,ando.ravoajanahary141@mail.mg,0321628003,Antsiranana,Diana,2024-03-09
+CLI0142,Ratsimbazafy,Ando,ando.ratsimbazafy142@mail.mg,0347570945,Morondava,Menabe,2025-03-23
+CLI0143,Rajaonarivelo,Nirina,nirina.rajaonarivelo143@mail.mg,0343 962 918,Toliara,Atsimo-Andrefana,2025-01-13
+CLI0144,Randria,Hery,hery.randria144@mail.mg,0344920370,Antsirabé,Vakinankaratra,2024-11-06
+CLI0145,Rakotomalala,Hery,hery.rakotomalala145@mail.mg,+261 34 72 726 96,Antsiranana,Diana,2025-04-08
+CLI0146,Ravoajanahary,Aina,aina.ravoajanahary146@mail.mg,0343940060,Fianarantsoa,Haute Matsiatra,2024-05-03
+CLI0147,Rasoa,Mamy,mamy.rasoa147@mail.mg,+261 33 11 653 89,Morondava,Menabe,2024-03-27
+CLI0148,Rakotomalala,Sedra,sedra.rakotomalala148@mail.mg,+261 33 69 846 18,Mahajanga,Boeny,2024-11-22
+CLI0149,Rakotomalala,Rado,rado.rakotomalala149@mail.mg,0340581018,Antsirabe,Vakinankaratra,2025-04-19
+CLI0150,Rakotomalala,Aina,aina.rakotomalala150@mail.mg,0329 854 242,Mahajanga,Boeny,2024-03-14
+CLI0151,Razafimahatratra,Iarivo,iarivo.razafimahatratra151@mail.mg,0327398260,Antsiranana,Diana,2024-11-18
+CLI0152,Razanamalala,Rado,rado.razanamalala152@mail.mg,0324720058,Mahajanga,Boeny,2024-02-07
+CLI0153,Randria,Koloina,koloina.randria153@mail.mg,0331204865,Antsiranana,Diana,2024-07-11
+CLI0154,Andrianjafy,Lalaina,lalaina.andrianjafy154@mail.mg,+261 32 43 288 46,Antsirabe,Vakinankaratra,2024-03-27
+CLI0155,Andrianina,Zo,zo.andrianina155@mail.mg,0337 506 186,Fianarantsoa,Haute Matsiatra,2024-01-12
+CLI0156,Rasolofo,Mendrika,mendrika.rasolofo156@mail.mg,0344574558,Toamasina,Atsinanana,2024-06-10
+CLI0157,Rakoto,Hery,hery.rakoto157@mail.mg,0341547001,Morondava,Menabe,2024-02-04
+CLI0158,Ravoajanahary,Sedra,sedra.ravoajanahary158@mail.mg,0327950601,Mahajanga,Boeny,2024-07-27
+CLI0159,Andrianjafy,Fetra,fetra.andrianjafy159@mail.mg,0331681719,Antsiranana,Diana,2025-01-31
+CLI0160,Rabe,Mendrika,mendrika.rabe160@mail.mg,0333 417 410,Toliara,Atsimo-Andrefana,2025-01-25
+CLI0161,Razanamalala,Tojo,tojo.razanamalala161@mail.mg,0347 200 808,Antananarivo,Analamanga,2024-06-16
+CLI0162,Razafy,Mendrika,mendrika.razafy162@mail.mg,0349430066,Mahajanga,Boeny,2024-11-11
+CLI0163,Razafimahatratra,Vola,vola.razafimahatratra163@mail.mg,+261 32 38 676 31,Antsirabe,Vakinankaratra,2025-02-20
+CLI0164,Ravoajanahary,Fetra,fetra.ravoajanahary164@mail.mg,0334771309,Toliara,Atsimo-Andrefana,2024-04-02
+CLI0165,Andriamalala,Vola,vola.andriamalala165@mail.mg,0321 162 620,Antsirabe,Vakinankaratra,2024-11-24
+CLI0166,Ratsimbazafy,Lalaina,lalaina.ratsimbazafy166@mail.mg,+261 34 39 702 69,Toliara,Atsimo-Andrefana,2025-04-20
+CLI0167,Razafy,Ando,ando.razafy167@mail.mg,+261 33 19 579 87,Mahajanga,Boeny,2024-12-13
+CLI0168,Razafy,Miora,miora.razafy168@mail.mg,+261 32 32 740 72,Toamasina,Atsinanana,2025-05-09
+CLI0169,Rakoto,Zo,zo.rakoto169@mail.mg,+261 34 54 347 13,Toliara,Atsimo-Andrefana,2024-09-26
+CLI0170,Ravelo,Faniry,faniry.ravelo170@mail.mg,0334 117 220,Morondava,Menabe,2024-03-04
+CLI0171,Rakotomalala,Antsa,antsa.rakotomalala171@mail.mg,+261 33 23 525 69,Antsirabe,Vakinankaratra,2024-04-13
+CLI0172,Razafimahatratra,Iarivo,iarivo.razafimahatratra172@mail.mg,0334 577 274,Fianarantsoa,Haute Matsiatra,2024-11-11
+CLI0173,Andrianjafy,Fetra,fetra.andrianjafy173@mail.mg,0326547663,Toamasina,Atsinanana,2025-01-27
+CLI0174,Rasolofo,Andry,andry.rasolofo174@mail.mg,+261 34 98 781 36,Morondava,Menabe,2024-09-27
+CLI0175,Razafimahatratra,Ando,ando.razafimahatratra175@mail.mg,0339 856 661,Mahajanga,Boeny,2024-11-10
+CLI0176,Razafimahatratra,Hery,hery.razafimahatratra176@mail.mg,0326 443 587,Antsiranana,Diana,2024-08-22
+CLI0177,Rajaonarivelo,Andry,andry.rajaonarivelo177@mail.mg,0348930193,Morondava,Menabe,2024-04-04
+CLI0178,Rakotomalala,Haja,haja.rakotomalala178@mail.mg,0337 310 187,Toliara,Atsimo-Andrefana,2024-08-20
+CLI0179,Razafy,Nirina,nirina.razafy179@mail.mg,+261 34 49 428 98,Antsiranana,Diana,2025-04-09
+CLI0180,Rakotomalala,Ando,ando.rakotomalala180@mail.mg,+261 33 41 739 26,Toamasina,Atsinanana,2024-10-02
+CLI0181,Andrianjafy,Soa,soa.andrianjafy181@mail.mg,0329 244 738,Toamasina,Atsinanana,2024-08-07
+CLI0182,Razafy,Onja,onja.razafy182@mail.mg,0334753169,Antsiranana,Diana,2024-07-14
+CLI0183,Ratsimbazafy,Mamy,mamy.ratsimbazafy183@mail.mg,0333 467 803,Fianarantsoa,Haute Matsiatra,2025-04-16
+CLI0184,Rakoto,Iarivo,iarivo.rakoto184@mail.mg,0336 303 230,Mahajanga,Boeny,2024-06-17
+CLI0185,Rakoto,Antsa,antsa.rakoto185@mail.mg,+261 34 97 674 60,Antananarivo,Analamanga,2024-02-29
+CLI0186,Rasoa,Aina,aina.rasoa186@mail.mg,0342 135 343,Antananarivo,Analamanga,2024-05-06
+CLI0187,Ramanana,Hery,hery.ramanana187@mail.mg,+261 33 45 378 47,Antsirabe,Vakinankaratra,2024-08-06
+CLI0188,Rajaonarivelo,Soa,soa.rajaonarivelo188@mail.mg,0322934073,Morondava,Menabe,2024-10-02
+CLI0189,Andriamalala,Andry,andry.andriamalala189@mail.mg,0328 177 246,Fianarantsoa,Haute Matsiatra,2025-04-18
+CLI0190,Rasolofo,Tiana,tiana.rasolofo190@mail.mg,+261 33 61 492 69,Antsirabe,Vakinankaratra,2024-09-23
+CLI0191,Ravelo,Haja,haja.ravelo191@mail.mg,0340949369,Toamasina,Atsinanana,2024-06-22
+CLI0192,Razafy,Koloina,koloina.razafy192@mail.mg,0339599899,Toliara,Atsimo-Andrefana,2025-01-30
+CLI0193,Rakotoarisoa,Tojo,tojo.rakotoarisoa193@mail.mg,0349600018,Fianarantsoa,Haute Matsiatra,2025-02-06
+CLI0194,Razafy,Naina,naina.razafy194@mail.mg,0342128052,Antsirabe,Vakinankaratra,2024-03-02
+CLI0195,Razafy,Haja,haja.razafy195@mail.mg,0326 525 995,antananarivo,Analamanga,2024-07-21
+CLI0196,Rajaonarivelo,Miora,miora.rajaonarivelo196@mail.mg,0347 854 396,Mahajanga,Boeny,2025-03-03
+CLI0197,Rasoa,Aina,aina.rasoa197@mail.mg,+261 33 96 945 23,Morondava,Menabe,2024-07-13
+CLI0198,Razanamalala,Onja,onja.razanamalala198@mail.mg,+261 32 49 140 56,Morondava,Menabe,2025-03-21
+CLI0199,Rakoto,Onja,onja.rakoto199@mail.mg,+261 32 83 537 32,Toamasina,Atsinanana,2024-07-25
+CLI0200,Andrianina,Faniry,faniry.andrianina200@mail.mg,0342325791,Toamasina,Atsinanana,2024-11-01
+CLI0201,rafanomezantsoa,  Haja ,haja.rafanomezantsoa59@mail.mg,0337464450,Fianarantsoa,Haute Matsiatra,2024-04-10
+CLI0202,RATSIMBAZAFY,  Soa ,soa.ratsimbazafy41@mail.mg,+261 33 62 840 62,Antananarivo,Analamanga,2024-11-29
+CLI0203,RANDRIA,  Fetra ,fetra.randria35@mail.mg,+261 32 49 470 13,Toliara,Atsimo-Andrefana,2024-12-22
+CLI0204,RASOA,  Mamy ,mamy.rasoa103@mail.mg,0345571230,Toliara,Atsimo-Andrefana,2024-10-17
+CLI0205,RAKOTO,  Antsa ,antsa.rakoto185@mail.mg,+261 34 97 674 60,Antananarivo,Analamanga,2024-02-29
+CLI0206,RAKOTO,  Onja ,onja.rakoto199@mail.mg,+261 32 83 537 32,Toamasina,Atsinanana,2024-07-25
+CLI0207,andrianjafy,  Hery ,hery.andrianjafy96@mail.mg,0323731443,Toliara,Atsimo-Andrefana,2024-09-04

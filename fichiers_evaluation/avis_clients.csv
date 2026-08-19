@@ -1,0 +1,407 @@
+id_avis,id_commande,note,commentaire,date_avis
+AVI00137,CMD00251,4.0,Bon produit,2025-12-07
+AVI00100,CMD00359,4.0,Bien mais emballage moyen,2025-08-29
+AVI00224,CMD00699,2.0,Emballage abime,2025-04-09
+AVI00276,CMD00604,3.0,Attendu mieux pour ce prix,2025-08-04
+AVI00083,CMD00116,1.0,Service client injoignable,2026-01-14
+AVI00294,CMD00109,3.0,Attendu mieux pour ce prix,2025-06-30
+AVI00096,CMD00214,5.0,"Produit conforme, livraison rapide",2025-05-15
+AVI00177,CMD00066,1.0,Produit defectueux,2025-11-23
+AVI00262,CMD00443,2.0,Decu par la qualite,2025-05-02
+AVI00215,CMD00046,5.0,Parfait,2025-08-25
+AVI00337,CMD00496,4.0,Satisfait dans l'ensemble,2025-07-02
+AVI00360,CMD00673,4.0,Bien mais emballage moyen,2026-02-07
+AVI00053,CMD00581,5.0,Tres satisfait,2026-01-16
+AVI00021,CMD00327,-2.0,Livraison lente mais produit ok,2025-03-27
+AVI00371,CMD00429,5.0,"Produit conforme, livraison rapide",2025-07-05
+AVI00202,CMD00252,4.0,Conforme a la description,2025-02-02
+AVI00122,CMD00311,5.0,Parfait,2025-11-11
+AVI00157,CMD00376,4.0,Bien mais emballage moyen,2025-09-17
+AVI00151,CMD00131,3.0,Attendu mieux pour ce prix,2025-11-23
+AVI00310,CMD00656,3.0,Livraison lente mais produit ok,2025-04-11
+AVI00351,CMD00354,4.0,Bon produit,2025-10-11
+AVI00383,CMD00325,2.0,Emballage abime,2025-09-29
+AVI00071,CMD00313,3.0,Attendu mieux pour ce prix,2025-09-08
+AVI00087,CMD00091,3.0,Moyen,2025-03-27
+AVI00375,CMD00497,4.0,Satisfait dans l'ensemble,2025-06-30
+AVI00110,CMD00236,4.0,Bien mais emballage moyen,2025-08-18
+AVI00222,CMD00199,5.0,"Produit conforme, livraison rapide",2026-01-14
+AVI00191,CMD00202,5.0,Parfait,2025-12-06
+AVI00362,CMD00475,3.0,Livraison lente mais produit ok,2026-01-09
+AVI00184,CMD00119,4.0,Bien mais emballage moyen,2025-06-14
+AVI00059,CMD00396,5.0,Tres satisfait,2025-11-03
+AVI00036,CMD00144,3.0,Attendu mieux pour ce prix,2025-12-02
+AVI00275,CMD00215,4.0,Bien mais emballage moyen,2025-10-22
+AVI00336,CMD00037,3.0,Correct sans plus,2025-09-04
+AVI00200,CMD00032,5.0,Tres satisfait,2025-06-29
+AVI00017,CMD00645,4.0,Conforme a la description,2025-08-27
+AVI00313,CMD00306,5.0,"Produit conforme, livraison rapide",2025-09-26
+AVI00260,CMD00124,1.0,Service client injoignable,2025-08-09
+AVI00135,CMD00554,4.0,Conforme a la description,2025-06-24
+AVI00281,CMD90004,5.0,Excellent rapport qualite prix,2025-06-26
+AVI00343,CMD00661,4.0,Satisfait dans l'ensemble,2025-11-13
+AVI00182,CMD00484,,Tres satisfait,2026-01-01
+AVI00335,CMD00356,5.0,"Produit conforme, livraison rapide",2026-03-02
+AVI00269,CMD00087,4.0,Satisfait dans l'ensemble,2025-07-11
+AVI00259,CMD00450,4.0,Satisfait dans l'ensemble,2025-11-04
+AVI00392,CMD00508,3.0,Moyen,2025-10-29
+AVI00288,CMD00256,5.0,Excellent rapport qualite prix,2025-06-21
+AVI00329,CMD00626,2.0,Ne correspond pas tout a fait,2025-05-28
+AVI00136,CMD00591,3.0,Attendu mieux pour ce prix,2026-02-04
+AVI00327,CMD00036,3.0,Livraison lente mais produit ok,2025-09-02
+AVI00108,CMD00561,1.0,Service client injoignable,2025-11-08
+AVI00102,CMD00346,3.0,Attendu mieux pour ce prix,2025-07-07
+AVI00190,CMD00194,5.0,Tres satisfait,2025-10-12
+AVI00380,CMD00064,1.0,Produit defectueux,2025-04-13
+AVI00081,CMD00122,2.0,Livraison tres lente,2025-12-09
+AVI00237,CMD00478,3.0,Livraison lente mais produit ok,2025-08-17
+AVI00385,CMD00358,5.0,Excellent rapport qualite prix,2025-08-28
+AVI00220,CMD00282,1.0,Tres decu,2025-04-13
+AVI00223,CMD00189,4.0,Satisfait dans l'ensemble,2026-01-07
+AVI00015,CMD00480,4.0,Bien mais emballage moyen,2025-11-26
+AVI00109,CMD00400,4.0,Satisfait dans l'ensemble,2025-06-13
+AVI00140,CMD00157,4.0,Conforme a la description,2025-05-16
+AVI00300,CMD00546,3.0,Correct sans plus,2025-11-05
+AVI00400,CMD00550,2.0,Emballage abime,2025-08-09
+AVI00065,CMD00229,3.0,Livraison lente mais produit ok,2025-02-10
+AVI00246,CMD00298,1.0,Tres decu,2026-01-27
+AVI00291,CMD00693,,Bon produit,2025-11-25
+AVI00226,CMD00238,3.0,Attendu mieux pour ce prix,2025-03-31
+AVI00072,CMD00403,5.0,"Produit conforme, livraison rapide",2025-10-02
+AVI00139,CMD00363,5.0,Tres satisfait,2025-07-14
+AVI00261,CMD00617,5.0,Tres satisfait,2025-04-12
+AVI00004,CMD00004,4.0,Bien mais emballage moyen,2025-11-19
+AVI00173,CMD00695,5.0,Parfait,2025-10-06
+AVI00014,CMD00520,3.0,Moyen,2026-02-26
+AVI00183,CMD00513,5.0,Tres satisfait,2025-10-14
+AVI00285,CMD00602,5.0,Excellent rapport qualite prix,2025-10-03
+AVI00367,CMD00072,2.0,Ne correspond pas tout a fait,2025-05-13
+AVI00197,CMD00065,4.0,Bien mais emballage moyen,2025-04-08
+AVI00063,CMD00383,5.0,Parfait,2025-06-08
+AVI00095,CMD00263,4.0,Conforme a la description,2025-11-07
+AVI00029,CMD00408,5.0,"Produit conforme, livraison rapide",2025-09-15
+AVI00204,CMD00042,4.0,Bien mais emballage moyen,2025-11-26
+AVI00166,CMD00152,3.0,Attendu mieux pour ce prix,2025-09-30
+AVI00123,CMD00117,3.0,Livraison lente mais produit ok,2025-06-21
+AVI00054,CMD00326,3.0,Correct sans plus,2025-09-12
+AVI00133,CMD00097,4.0,Bien mais emballage moyen,2025-09-15
+AVI00131,CMD00177,3.0,Moyen,2025-09-02
+AVI00114,CMD00690,2.0,Emballage abime,2025-12-27
+AVI00311,CMD00344,2.0,Emballage abime,2025-11-02
+AVI00227,CMD00493,4.0,Bien mais emballage moyen,2026-01-06
+AVI00393,CMD00671,4.0,Conforme a la description,2025-05-07
+AVI00243,CMD00538,1.0,Jamais recu le bon article,2025-07-18
+AVI00257,CMD00506,5.0,Tres satisfait,2025-07-24
+AVI00270,CMD00465,1.0,Service client injoignable,2025-09-28
+AVI00055,CMD00528,1.0,Tres decu,2026-02-11
+AVI00172,CMD00168,4.0,Bon produit,2025-06-28
+AVI00333,CMD00444,5.0,Excellent rapport qualite prix,2025-07-05
+AVI00324,CMD00426,4.0,Bien mais emballage moyen,2025-09-11
+AVI00208,CMD00365,3.0,Attendu mieux pour ce prix,2025-12-29
+AVI00217,CMD00398,,Conforme a la description,2025-07-05
+AVI00012,CMD00134,5.0,Tres satisfait,2025-07-16
+AVI00251,CMD00030,2.0,Ne correspond pas tout a fait,2025-04-28
+AVI00303,CMD00162,3.0,Moyen,2025-12-14
+AVI00264,CMD00305,2.0,Livraison tres lente,2025-11-24
+AVI00358,CMD00249,3.0,Moyen,2025-09-27
+AVI00317,CMD00139,3.0,Correct sans plus,2025-11-24
+AVI00216,CMD00647,5.0,Excellent rapport qualite prix,2025-10-07
+AVI00155,CMD00175,4.0,Conforme a la description,2025-06-09
+AVI00030,CMD00563,5.0,"Produit conforme, livraison rapide",2025-10-03
+AVI00210,CMD00594,3.0,Livraison lente mais produit ok,2025-07-18
+AVI00162,CMD00013,4.0,Satisfait dans l'ensemble,2025-02-23
+AVI00126,CMD00347,3.0,Attendu mieux pour ce prix,2025-09-21
+AVI00384,CMD00129,3.0,Livraison lente mais produit ok,2025-11-22
+AVI00134,CMD00644,2.0,Decu par la qualite,2025-10-13
+AVI00332,CMD00596,2.0,Decu par la qualite,2025-08-15
+AVI00344,CMD00090,4.0,Satisfait dans l'ensemble,2025-12-23
+AVI00062,CMD00141,3.0,Moyen,2025-10-31
+AVI00396,CMD00608,3.0,Livraison lente mais produit ok,2025-03-12
+AVI00113,CMD00593,3.0,Moyen,2025-11-20
+AVI00312,CMD00321,5.0,Parfait,2025-04-10
+AVI00265,CMD00200,5.0,Tres satisfait,2025-07-29
+AVI00043,CMD00083,4.0,Bien mais emballage moyen,2025-11-18
+AVI00093,CMD00133,4.0,Bon produit,2025-09-21
+AVI00212,CMD00206,4.0,Bon produit,2025-11-19
+AVI00357,CMD00445,2.0,Livraison tres lente,2025-08-18
+AVI00152,CMD00421,4.0,Satisfait dans l'ensemble,2025-12-31
+AVI00353,CMD00070,1.0,Service client injoignable,2026-01-13
+AVI00159,CMD00024,4.0,Bien mais emballage moyen,2026-01-18
+AVI00381,CMD00482,4.0,Satisfait dans l'ensemble,2025-07-04
+AVI00168,CMD00075,5.0,Parfait,2025-06-13
+AVI00244,CMD00211,5.0,Tres satisfait,2025-09-21
+AVI00007,CMD00463,4.0,Bien mais emballage moyen,2025-12-10
+AVI00170,CMD00276,5.0,Tres satisfait,2025-09-14
+AVI00066,CMD00627,1.0,Produit defectueux,2025-03-19
+AVI00143,CMD00342,4.0,Satisfait dans l'ensemble,2025-11-06
+AVI00154,CMD00517,3.0,Correct sans plus,2025-08-18
+AVI00188,CMD00471,3.0,Livraison lente mais produit ok,2025-03-06
+AVI00038,CMD00555,3.0,Correct sans plus,2026-03-04
+AVI00198,CMD00630,3.0,Correct sans plus,2025-08-16
+AVI00355,CMD00287,,Bien mais emballage moyen,2025-05-28
+AVI00074,CMD00399,5.0,Parfait,2025-12-17
+AVI00034,CMD00570,5.0,Tres satisfait,2025-12-12
+AVI00119,CMD00035,5.0,Excellent rapport qualite prix,2026-01-01
+AVI00209,CMD00651,5.0,Parfait,2025-06-25
+AVI00101,CMD00428,5.0,"Produit conforme, livraison rapide",2026-01-18
+AVI00356,CMD00577,5.0,Parfait,2025-08-06
+AVI00201,CMD00351,5.0,Tres satisfait,2026-01-26
+AVI00039,CMD00185,2.0,Decu par la qualite,2025-06-24
+AVI00283,CMD00422,5.0,Excellent rapport qualite prix,2025-09-26
+AVI00103,CMD00551,2.0,Livraison tres lente,2025-10-06
+AVI00382,CMD00459,3.0,Attendu mieux pour ce prix,2025-12-14
+AVI00085,CMD00436,5.0,Tres satisfait,2025-06-29
+AVI00268,CMD00192,1.0,Produit defectueux,2025-12-26
+AVI00117,CMD00700,5.0,Excellent rapport qualite prix,2025-05-18
+AVI00079,CMD00299,4.0,Satisfait dans l'ensemble,2025-11-27
+AVI00156,CMD00062,4.0,Satisfait dans l'ensemble,2025-12-22
+AVI00214,CMD00222,4.0,Satisfait dans l'ensemble,2025-07-06
+AVI00138,CMD00309,1.0,Tres decu,2025-05-23
+AVI00255,CMD00025,4.0,Bon produit,2025-07-26
+AVI00233,CMD00098,1.0,Service client injoignable,2025-09-15
+AVI00192,CMD00643,3.0,Moyen,2025-11-20
+AVI00266,CMD00322,3.0,Moyen,2025-11-24
+AVI00024,CMD00415,5.0,Excellent rapport qualite prix,2025-07-13
+AVI00048,CMD00413,5.0,"Produit conforme, livraison rapide",2026-02-08
+AVI00331,CMD00226,4.0,Conforme a la description,2025-07-18
+AVI00049,CMD00101,3.0,Correct sans plus,2025-09-11
+AVI00368,CMD00361,2.0,Ne correspond pas tout a fait,2025-12-16
+AVI00236,CMD00578,4.0,Bon produit,2025-12-26
+AVI00089,CMD00333,5.0,Tres satisfait,2025-09-27
+AVI00174,CMD00494,2.0,Ne correspond pas tout a fait,2025-08-14
+AVI00148,CMD00067,5.0,Tres satisfait,2025-11-17
+AVI00289,CMD00350,5.0,Excellent rapport qualite prix,2025-12-19
+AVI00001,CMD00576,4.0,Satisfait dans l'ensemble,2025-12-02
+AVI00129,CMD00301,5.0,"Produit conforme, livraison rapide",2025-12-10
+AVI00082,CMD00296,6.0,Moyen,2026-02-01
+AVI00377,CMD00631,5.0,Parfait,2026-01-06
+AVI00286,CMD00371,4.0,Satisfait dans l'ensemble,2025-08-26
+AVI00321,CMD00283,5.0,Excellent rapport qualite prix,2025-08-29
+AVI00149,CMD00353,3.0,Livraison lente mais produit ok,2025-06-20
+AVI00256,CMD00050,5.0,Parfait,2025-06-22
+AVI00327,CMD00036,3.0,Livraison lente mais produit ok,2025-09-02
+AVI00253,CMD00556,4.0,Satisfait dans l'ensemble,2025-05-14
+AVI00160,CMD00409,3.0,Moyen,2025-07-22
+AVI00293,CMD00633,,Tres satisfait,2025-05-26
+AVI00051,CMD00254,4.0,Bien mais emballage moyen,2025-05-25
+AVI00349,CMD00002,5.0,Tres satisfait,2026-02-20
+AVI00341,CMD00375,3.0,Correct sans plus,2025-04-27
+AVI00141,CMD00103,6.0,Moyen,2025-10-26
+AVI00120,CMD00099,3.0,Moyen,2025-08-21
+AVI00199,CMD00380,4.0,Bien mais emballage moyen,2025-07-01
+AVI00296,CMD00579,4.0,Satisfait dans l'ensemble,2025-05-01
+AVI00302,CMD00368,5.0,"Produit conforme, livraison rapide",2025-12-10
+AVI00016,CMD00300,3.0,Moyen,2025-11-18
+AVI00211,CMD00469,1.0,Produit defectueux,2025-05-07
+AVI00310,CMD00656,3.0,Livraison lente mais produit ok,2025-04-11
+AVI00010,CMD00212,5.0,Tres satisfait,2025-08-06
+AVI00350,CMD00404,3.0,Livraison lente mais produit ok,2025-12-03
+AVI00070,CMD00060,0.0,Bien mais emballage moyen,2025-05-01
+AVI00169,CMD00697,2.0,Ne correspond pas tout a fait,2025-10-15
+AVI00175,CMD90009,4.0,Bon produit,2025-10-06
+AVI00394,CMD00435,4.0,Bon produit,2025-08-05
+AVI00069,CMD00057,5.0,Excellent rapport qualite prix,2025-10-03
+AVI00305,CMD00207,4.0,Satisfait dans l'ensemble,2025-10-17
+AVI00165,CMD00265,5.0,Parfait,2025-04-21
+AVI00364,CMD00655,2.0,Livraison tres lente,2026-02-13
+AVI00106,CMD00620,4.0,Bon produit,2025-12-20
+AVI00098,CMD00615,1.0,Jamais recu le bon article,2025-02-21
+AVI00020,CMD00243,1.0,Jamais recu le bon article,2025-04-09
+AVI00331,CMD00226,4.0,Conforme a la description,2025-07-18
+AVI00099,CMD00105,10.0,Bien mais emballage moyen,2025-07-11
+AVI00363,CMD00077,5.0,Parfait,2025-10-28
+AVI00399,CMD00442,3.0,Moyen,2025-10-26
+AVI00078,CMD00225,4.0,Bien mais emballage moyen,2025-11-22
+AVI00338,CMD00196,5.0,Parfait,2026-02-27
+AVI00052,CMD00184,4.0,Bien mais emballage moyen,2025-11-05
+AVI00323,CMD00540,2.0,Decu par la qualite,2025-12-11
+AVI00299,CMD00319,5.0,Parfait,2025-07-20
+AVI00273,CMD00089,5.0,"Produit conforme, livraison rapide",2025-10-29
+AVI00035,CMD00559,5.0,Tres satisfait,2025-10-05
+AVI00228,CMD00678,5.0,Excellent rapport qualite prix,2025-12-17
+AVI00005,CMD00302,4.0,Bon produit,2025-05-20
+AVI00218,CMD00234,2.0,Livraison tres lente,2025-08-18
+AVI00248,CMD00367,2.0,Livraison tres lente,2025-09-11
+AVI00181,CMD00692,3.0,Attendu mieux pour ce prix,2025-08-06
+AVI00252,CMD00143,3.0,Attendu mieux pour ce prix,2025-11-18
+AVI00189,CMD00670,4.0,Satisfait dans l'ensemble,2025-05-30
+AVI00145,CMD00454,5.0,Excellent rapport qualite prix,2025-09-24
+AVI00176,CMD00260,5.0,Excellent rapport qualite prix,2025-04-11
+AVI00080,CMD00492,5.0,Tres satisfait,2025-12-15
+AVI00153,CMD00668,3.0,Correct sans plus,2025-07-27
+AVI00205,CMD00088,5.0,Parfait,2025-03-08
+AVI00076,CMD00180,1.0,Produit defectueux,2025-05-29
+AVI00308,CMD00374,5.0,Tres satisfait,2025-10-12
+AVI00301,CMD00128,1.0,Tres decu,2026-02-14
+AVI00077,CMD00488,5.0,"Produit conforme, livraison rapide",2025-08-30
+AVI00339,CMD00086,3.0,Correct sans plus,2026-01-23
+AVI00206,CMD00079,2.0,Decu par la qualite,2025-11-10
+AVI00023,CMD00667,3.0,Moyen,2025-10-31
+AVI00094,CMD00432,3.0,Attendu mieux pour ce prix,2025-10-27
+AVI00026,CMD00547,4.0,Satisfait dans l'ensemble,2026-01-24
+AVI00398,CMD00173,5.0,Tres satisfait,2025-04-22
+AVI00366,CMD00021,4.0,Satisfait dans l'ensemble,2025-08-19
+AVI00373,CMD00151,2.0,Livraison tres lente,2025-11-19
+AVI00115,CMD00330,5.0,Parfait,2025-10-06
+AVI00240,CMD00277,5.0,"Produit conforme, livraison rapide",2025-08-08
+AVI00354,CMD00453,1.0,Jamais recu le bon article,2025-09-01
+AVI00346,CMD00636,1.0,Produit defectueux,2025-06-29
+AVI00124,CMD00621,5.0,"Produit conforme, livraison rapide",2025-06-10
+AVI00086,CMD00054,0.0,Correct sans plus,2026-02-11
+AVI00088,CMD00020,1.0,Produit defectueux,2025-07-15
+AVI00359,CMD00343,2.0,Decu par la qualite,2025-04-01
+AVI00118,CMD00537,5.0,Tres satisfait,2026-01-14
+AVI00216,CMD00647,5.0,Excellent rapport qualite prix,2025-10-07
+AVI00150,CMD00176,4.0,Bon produit,2025-12-01
+AVI00047,CMD00137,5.0,Parfait,2025-04-28
+AVI00125,CMD00553,5.0,"Produit conforme, livraison rapide",2025-11-17
+AVI00219,CMD00406,5.0,Parfait,2025-10-19
+AVI00127,CMD00281,1.0,Service client injoignable,2025-10-31
+AVI00295,CMD00295,4.0,Satisfait dans l'ensemble,2025-07-18
+AVI00084,CMD00278,3.0,Livraison lente mais produit ok,2025-05-29
+AVI00232,CMD00688,5.0,Excellent rapport qualite prix,2026-02-15
+AVI00128,CMD00039,4.0,Conforme a la description,2025-12-10
+AVI00104,CMD00603,5.0,Tres satisfait,2025-06-18
+AVI00058,CMD00340,3.0,Livraison lente mais produit ok,2025-10-11
+AVI00068,CMD00381,,Conforme a la description,2025-08-21
+AVI00002,CMD00219,10.0,"Produit conforme, livraison rapide",2025-03-06
+AVI00365,CMD00511,4.0,Conforme a la description,2025-04-06
+AVI00397,CMD00285,2.0,Livraison tres lente,2025-05-11
+AVI00297,CMD00410,3.0,Moyen,2025-11-01
+AVI00379,CMD00047,4.0,Bon produit,2025-05-08
+AVI00147,CMD00648,-2.0,Conforme a la description,2025-12-15
+AVI00326,CMD00521,3.0,Correct sans plus,2025-10-25
+AVI00287,CMD00095,2.0,Emballage abime,2025-12-28
+AVI00097,CMD00592,3.0,Correct sans plus,2025-06-20
+AVI00231,CMD90003,2.0,Decu par la qualite,2025-08-02
+AVI00171,CMD00536,2.0,Decu par la qualite,2025-07-06
+AVI00019,CMD00523,1.0,Service client injoignable,2025-05-04
+AVI00091,CMD00174,3.0,Livraison lente mais produit ok,2025-11-10
+AVI00060,CMD90001,3.0,Livraison lente mais produit ok,2025-07-22
+AVI00056,CMD00464,4.0,Satisfait dans l'ensemble,2025-11-14
+AVI00345,CMD00598,4.0,Bon produit,2025-05-15
+AVI00258,CMD00424,,Tres decu,2025-11-14
+AVI00121,CMD00186,1.0,Produit defectueux,2025-06-06
+AVI00194,CMD00120,2.0,Decu par la qualite,2025-09-23
+AVI00221,CMD00532,1.0,Jamais recu le bon article,2025-10-23
+AVI00390,CMD00126,4.0,Bon produit,2025-10-04
+AVI00250,CMD00290,5.0,Tres satisfait,2025-04-02
+AVI00161,CMD00515,4.0,Bon produit,2025-12-21
+AVI00158,CMD00395,3.0,Attendu mieux pour ce prix,2025-08-24
+AVI00315,CMD00378,3.0,Attendu mieux pour ce prix,2025-10-06
+AVI00006,CMD90007,4.0,Bon produit,2025-07-04
+AVI00234,CMD00612,5.0,Tres satisfait,2025-08-12
+AVI00330,CMD00011,5.0,"Produit conforme, livraison rapide",2025-12-09
+AVI00342,CMD00377,4.0,Bien mais emballage moyen,2025-12-09
+AVI00369,CMD00094,4.0,Bien mais emballage moyen,2025-04-20
+AVI00163,CMD00419,4.0,Bon produit,2026-01-03
+AVI00187,CMD00694,1.0,Jamais recu le bon article,2025-10-18
+AVI00245,CMD00574,5.0,Excellent rapport qualite prix,2025-08-19
+AVI00388,CMD00653,2.0,Emballage abime,2025-12-12
+AVI00348,CMD00622,1.0,Jamais recu le bon article,2025-07-11
+AVI00116,CMD00503,1.0,Produit defectueux,2026-01-14
+AVI00164,CMD00270,3.0,Correct sans plus,2025-03-22
+AVI00278,CMD00003,5.0,Parfait,2025-08-09
+AVI00280,CMD00605,3.0,Attendu mieux pour ce prix,2025-10-15
+AVI00207,CMD00257,3.0,Livraison lente mais produit ok,2026-02-11
+AVI00249,CMD00548,5.0,Excellent rapport qualite prix,2025-03-14
+AVI00067,CMD00489,5.0,Excellent rapport qualite prix,2025-09-26
+AVI00247,CMD00680,3.0,Attendu mieux pour ce prix,2025-11-05
+AVI00328,CMD00165,5.0,Parfait,2025-12-30
+AVI00334,CMD00286,5.0,Parfait,2025-12-19
+AVI00352,CMD00545,2.0,Emballage abime,2025-06-24
+AVI00107,CMD00474,3.0,Livraison lente mais produit ok,2025-10-03
+AVI00309,CMD00218,3.0,Attendu mieux pour ce prix,2025-08-23
+AVI00027,CMD00491,3.0,Attendu mieux pour ce prix,2025-06-12
+AVI00195,CMD00272,4.0,Bon produit,2025-09-07
+AVI00041,CMD00273,2.0,Decu par la qualite,2025-12-19
+AVI00225,CMD00146,1.0,Jamais recu le bon article,2025-10-30
+AVI00130,CMD00179,2.0,Emballage abime,2025-10-01
+AVI00179,CMD00472,3.0,Livraison lente mais produit ok,2025-08-02
+AVI00306,CMD00691,2.0,Ne correspond pas tout a fait,2025-07-11
+AVI00011,CMD00416,2.0,Decu par la qualite,2025-05-04
+AVI00196,CMD00393,4.0,Bon produit,2026-02-16
+AVI00025,CMD00619,1.0,Jamais recu le bon article,2025-10-19
+AVI00271,CMD00118,1.0,Jamais recu le bon article,2025-09-24
+AVI00319,CMD00005,4.0,Satisfait dans l'ensemble,2025-10-15
+AVI00292,CMD00571,1.0,Tres decu,2025-12-09
+AVI00044,CMD00293,4.0,Satisfait dans l'ensemble,2025-04-17
+AVI00322,CMD00014,3.0,Livraison lente mais produit ok,2025-03-29
+AVI00361,CMD00507,4.0,Bien mais emballage moyen,2025-05-12
+AVI00254,CMD00040,1.0,Jamais recu le bon article,2026-01-26
+AVI00046,CMD00055,1.0,Jamais recu le bon article,2026-01-05
+AVI00387,CMD00529,5.0,"Produit conforme, livraison rapide",2025-12-18
+AVI00347,CMD00104,0.0,Bon produit,2026-02-05
+AVI00304,CMD00628,4.0,Conforme a la description,2025-09-06
+AVI00290,CMD00195,5.0,Tres satisfait,2025-07-07
+AVI00316,CMD00449,4.0,Conforme a la description,2025-12-01
+AVI00378,CMD00427,5.0,Excellent rapport qualite prix,2025-06-29
+AVI00075,CMD00485,4.0,Satisfait dans l'ensemble,2026-02-18
+AVI00389,CMD00130,2.0,Emballage abime,2025-11-28
+AVI00090,CMD00166,4.0,Conforme a la description,2025-07-30
+AVI00213,CMD00034,4.0,Bon produit,2025-05-04
+AVI00282,CMD00589,4.0,Bien mais emballage moyen,2025-10-26
+AVI00146,CMD00654,5.0,"Produit conforme, livraison rapide",2025-03-22
+AVI00013,CMD00401,4.0,Bien mais emballage moyen,2025-11-30
+AVI00022,CMD00539,,Excellent rapport qualite prix,2025-06-20
+AVI00105,CMD00498,2.0,Ne correspond pas tout a fait,2025-09-26
+AVI00374,CMD00148,5.0,"Produit conforme, livraison rapide",2025-07-13
+AVI00370,CMD00063,1.0,Produit defectueux,2025-12-25
+AVI00180,CMD00640,4.0,Bon produit,2025-05-17
+AVI00028,CMD00045,4.0,Bon produit,2025-07-19
+AVI00037,CMD90005,5.0,Tres satisfait,2025-06-19
+AVI00229,CMD00268,5.0,Excellent rapport qualite prix,2025-08-22
+AVI00272,CMD00382,10.0,Ne correspond pas tout a fait,2025-10-17
+AVI00277,CMD00682,1.0,Service client injoignable,2025-09-25
+AVI00193,CMD00672,2.0,Ne correspond pas tout a fait,2025-08-19
+AVI00073,CMD00623,2.0,Decu par la qualite,2025-06-06
+AVI00178,CMD00407,4.0,Bon produit,2025-10-25
+AVI00306,CMD00691,2.0,Ne correspond pas tout a fait,2025-07-11
+AVI00376,CMD00031,2.0,Decu par la qualite,2025-03-30
+AVI00203,CMD00132,3.0,Attendu mieux pour ce prix,2025-04-18
+AVI00111,CMD00217,2.0,Emballage abime,2026-01-04
+AVI00092,CMD00315,4.0,Satisfait dans l'ensemble,2025-05-04
+AVI00027,CMD00491,3.0,Attendu mieux pour ce prix,2025-06-12
+AVI00064,CMD00076,5.0,Parfait,2025-04-29
+AVI00372,CMD00607,2.0,Ne correspond pas tout a fait,2025-03-04
+AVI00009,CMD00663,5.0,Excellent rapport qualite prix,2025-11-09
+AVI00061,CMD00566,5.0,Tres satisfait,2025-06-06
+AVI00050,CMD00183,4.0,Conforme a la description,2026-03-08
+AVI00307,CMD00389,5.0,Tres satisfait,2025-08-23
+AVI00340,CMD00255,4.0,Bien mais emballage moyen,2025-09-13
+AVI00235,CMD00336,3.0,Livraison lente mais produit ok,2025-11-17
+AVI00284,CMD00022,2.0,Ne correspond pas tout a fait,2025-09-07
+AVI00057,CMD00610,2.0,Emballage abime,2025-09-20
+AVI00142,CMD00560,3.0,Moyen,2025-06-09
+AVI00045,CMD00505,5.0,Excellent rapport qualite prix,2026-02-19
+AVI00003,CMD00541,5.0,Excellent rapport qualite prix,2025-04-18
+AVI00395,CMD00178,1.0,Tres decu,2025-12-31
+AVI00318,CMD00600,3.0,Moyen,2025-07-18
+AVI00033,CMD00664,2.0,Decu par la qualite,2025-10-26
+AVI00230,CMD00008,3.0,Attendu mieux pour ce prix,2025-10-21
+AVI00238,CMD00455,3.0,Attendu mieux pour ce prix,2025-09-13
+AVI00274,CMD00289,2.0,Ne correspond pas tout a fait,2025-05-08
+AVI00031,CMD00348,3.0,Livraison lente mais produit ok,2026-01-15
+AVI00186,CMD00582,3.0,Moyen,2025-08-17
+AVI00298,CMD00135,1.0,Service client injoignable,2025-10-05
+AVI00167,CMD00423,2.0,Emballage abime,2025-12-15
+AVI00263,CMD00248,2.0,Livraison tres lente,2025-03-05
+AVI00320,CMD00245,2.0,Emballage abime,2025-11-15
+AVI00132,CMD00027,,Conforme a la description,2025-08-02
+AVI00267,CMD00264,5.0,Tres satisfait,2025-11-19
+AVI00185,CMD00575,5.0,Tres satisfait,2025-12-07
+AVI00042,CMD00156,4.0,Bon produit,2025-11-10
+AVI00018,CMD00451,4.0,Bien mais emballage moyen,2025-05-22
+AVI00239,CMD00490,2.0,Emballage abime,2025-05-19
+AVI00386,CMD00102,2.0,Livraison tres lente,2025-12-01
+AVI00008,CMD00683,3.0,Livraison lente mais produit ok,2025-05-05
+AVI00040,CMD00297,4.0,Conforme a la description,2025-04-09
+AVI00325,CMD00349,4.0,Bon produit,2025-09-10
+AVI00032,CMD00246,3.0,Correct sans plus,2025-12-21
+AVI00279,CMD00154,4.0,Bon produit,2025-11-03
+AVI00241,CMD00440,1.0,Service client injoignable,2026-01-20
+AVI00314,CMD00447,5.0,Tres satisfait,2025-12-31
+AVI00391,CMD00017,4.0,Bien mais emballage moyen,2025-11-10
+AVI00144,CMD00634,3.0,Correct sans plus,2025-05-16
+AVI00242,CMD00391,5.0,Excellent rapport qualite prix,2025-06-28
+AVI00112,CMD00160,5.0,"Produit conforme, livraison rapide",2025-09-14
